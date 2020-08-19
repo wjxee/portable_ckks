@@ -32,5 +32,5 @@
 #define SEAL_USE__SUBBORROW_U64
 
 // Third-party dependencies
-// #define SEAL_USE_MSGSL
-// #define SEAL_USE_ZLIB
+/* #undef SEAL_USE_MSGSL */
+/* #undef SEAL_USE_ZLIB */
