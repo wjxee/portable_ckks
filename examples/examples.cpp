@@ -76,8 +76,7 @@ int main()
         //     break;
 
         case 4:
-            // example_ckks_basics();
-        	cout << "4" <<endl;
+            example_ckks_basics();
             break;
 
         // case 5:
