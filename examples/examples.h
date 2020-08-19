@@ -3,7 +3,7 @@
 
 #pragma once
 
-// #include "seal/seal.h"
+#include "src/seal/seal.h"
 #include <algorithm>
 #include <chrono>
 #include <cstddef>
