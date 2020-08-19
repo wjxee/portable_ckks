@@ -4,7 +4,7 @@
 #include "examples.h"
 
 using namespace std;
-// using namespace seal;
+using namespace seal;
 
 int main()
 {
